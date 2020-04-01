@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "---------------------------------"
+echo "Script pour check mon emplacement"
+echo "---------------------------------"
+echo "Vous etes sous: `pwd`"
+
