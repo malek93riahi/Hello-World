@@ -4,4 +4,7 @@ echo "---------------------------------"
 echo "Script pour check mon emplacement"
 echo "---------------------------------"
 echo "Vous etes sous: `pwd`"
+echo "Vous etes connectés en tant que : `whoami`"
+echo ""
+echo "End."
 
